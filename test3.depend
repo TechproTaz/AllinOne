@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1623460640 source:c:\users\taz\documents\test3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+
+1620872882 source:c:\users\taz\documents\test3\asku.c
+	<stdio.h>
+	<stdlib.h>
+
+1623426280 source:c:\users\taz\documents\test3\continue.c
+	<stdio.h>
+	<stdlib.h>
+
+1623428124 source:c:\users\taz\documents\test3\math.c
+	<stdio.h>
+	<stdlib.h>
+
+1623460329 source:c:\users\taz\documents\test3\temp.c
+	<stdio.h>
+	<stdlib.h>
+
+1623457232 source:c:\users\taz\documents\test3\area.c
+	<stdio.h>
+	<stdlib.h>
+
+1623459665 source:c:\users\taz\documents\test3\rng.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1623458208 source:c:\users\taz\documents\test3\ooe.c
+	<stdio.h>
+	<stdlib.h>
+
+1623456240 source:c:\users\taz\documents\test3\aver.c
+	<stdio.h>
+	<stdlib.h>
+
+1623458657 source:c:\users\taz\documents\test3\dice.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1623459703 source:c:\users\taz\documents\test3\rngask.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1623459703 source:c:\users\taz\documents\test3\rngtask.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1623460329 source:c:\users\taz\documents\test3\wtf.c
+	<stdio.h>
+	<string.h>
+
